@@ -1,0 +1,112 @@
+Resumo focado nas **estruturas de dados e tipos de dados** abordados no texto:
+
+---
+
+  **Resumo – Estruturas de Dados Identificadas**
+
+O texto destaca que o crescimento exponencial dos dados trouxe uma grande diversidade de **estruturas de dados**, que podem ser classificadas principalmente em três categorias:
+
+  1. **Dados Estruturados**
+
+* Organizados em formatos bem definidos (tabelas, linhas e colunas).
+* Armazenados em bancos de dados relacionais (SQL).
+* Exemplos:
+
+  * Sistemas transacionais (vendas, ERP, CRM).
+* **Estruturas associadas:**
+
+  * Tabelas
+  * Registros (linhas)
+  * Campos (colunas)
+
+---
+
+  2. **Dados Não Estruturados**
+
+* Não seguem um formato fixo ou esquema rígido.
+* Representam a maior parte dos dados atuais.
+* Exemplos:
+
+  * Textos (redes sociais, reviews)
+  * Imagens
+  * Vídeos
+  * Áudios
+* **Estruturas associadas:**
+
+  * Documentos livres
+  * Arquivos multimídia
+  * Logs
+
+---
+
+  3. **Dados Semi-Estruturados**
+
+* Possuem alguma organização, mas não seguem o modelo rígido relacional.
+* Exemplos comuns (embora não citados explicitamente, são implícitos no contexto):
+
+  * JSON
+  * XML
+* Muito usados em integração de sistemas e APIs.
+
+---
+
+  **Estruturas e Arquiteturas para Processamento**
+
+Além dos tipos de dados, o texto aborda estruturas usadas para armazenar e processar grandes volumes:
+
+  • **Data Lakes**
+
+* Armazenam dados brutos (estruturados e não estruturados).
+* Estrutura flexível e escalável.
+
+  • **Sistemas Distribuídos**
+
+* Dados armazenados em clusters (vários servidores).
+* Permitem processamento paralelo.
+
+  • **Streams de Dados (Tempo Real)**
+
+* Fluxos contínuos de dados (IoT, transações).
+* Estrutura baseada em eventos sequenciais.
+
+---
+
+   **Estruturas de Integração de Dados**
+
+* **ETL (Extract, Transform, Load):**
+
+  * Pipeline de dados (extração → transformação → carga).
+* **APIs:**
+
+  * Integração entre sistemas diferentes.
+* **Metadados:**
+
+  * Dados sobre os dados (origem, formato, uso).
+
+---
+
+   **Estruturas usadas em IA e Análise Avançada**
+
+* **Modelos de Machine Learning:**
+
+  * Estruturas matemáticas treinadas com dados.
+* **Redes neurais (deep learning):**
+
+  * Estruturas complexas para dados não estruturados.
+* **Algoritmos de NLP:**
+
+  * Estruturas para processamento de linguagem natural.
+
+---
+
+  **Conclusão**
+
+O texto mostra que a análise de dados moderna lida com uma combinação de:
+
+* **Estruturas tradicionais (tabelas)**
+* **Estruturas flexíveis (data lakes, documentos)**
+* **Fluxos contínuos (streaming)**
+* **Estruturas inteligentes (modelos de IA)**
+
+Essa diversidade exige tecnologias avançadas para **armazenamento, integração e processamento eficiente**.
+
